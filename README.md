@@ -2,7 +2,7 @@
 <p 
   ![MasterHead] 
 align="center">
-  <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="MasterHead" width="1000" height="400">
+  <img src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="MasterHead" width="1000" height="300">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aamna Khan</h1>
