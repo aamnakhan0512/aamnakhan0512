@@ -11,7 +11,7 @@ align="center">
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=aamnakhan0512&label=Profile%20views&color=0e75b6&style=flat" alt="aamnakhan0512" /> </p>
 
-- 🌱 I’m currently learning **Java and Web Development**
+- 🌱 I’m currently learning **Java, MySQL,Spring Framework and Web Development**
 
 - 📫 How to reach me **aamnakhan0510@gmail.com**
 
