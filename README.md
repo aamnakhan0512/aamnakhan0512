@@ -11,7 +11,7 @@ align="center">
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=aamnakhan0512&label=Profile%20views&color=0e75b6&style=flat" alt="aamnakhan0512" /> </p>
 
-- 🌱 I’m currently learning **Java, MySQL,Spring Framework and Web Development**
+- 🌱 I’m currently learning **Java and Web Development**
 
 - 📫 How to reach me **aamnakhan0510@gmail.com**
 
@@ -32,6 +32,12 @@ align="center">
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
 
